@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  padding: 0;
+}
+main {
+  background: color 0;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+/*@font-face {
+  font-family: 'AbrilFatface-Regular.woff';
+  src: url('assets/AbrilFatface-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
